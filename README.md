@@ -1,5 +1,5 @@
 # ABOUT ME
-[My Linkedin Page] (https://www.linkedin.com/in/professional-tiago-castro/)
+[Linkedin](https://www.linkedin.com/in/professional-tiago-castro)
 
 Highly skilled professional with a passion for AI/ML Engineering, product and project management. 
 Seeking challenging opportunity to leverage my technical expertise and drive innovation and success in a dynamic environment.
