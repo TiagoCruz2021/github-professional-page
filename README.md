@@ -1,6 +1,4 @@
-# Tiago Cruz
-
-#### ABOUT ME
+# ABOUT ME
 Highly skilled professional with a passion for AI/ML Engineering, product and project management. 
 Seeking challenging opportunity to leverage my technical expertise and drive innovation and success in a dynamic environment.
 
@@ -11,10 +9,12 @@ Manager of all aspects of the business, including project development, client re
 
 **Programmer 	(_2023_)**
 Digitalmente, Lda. | Estarreja, Portugal
+
 ●	Wrote code to implement simple functionalities on the main Energy Management Platform. The same energy management service was then provided to other companies. 
 
 **Back Office-National Market	(_2019 - 2021_)**
-Herculano-Ferpinta Group | Oliveira de Azeméis, Portugal	
+Herculano-Ferpinta Group | Oliveira de Azeméis, Portugal
+
 ●	Handled calls, requests and inter departmental documentation; Liaison with accounting department; Fleet manager responsible for two employees and best route coordination for cost and efficiency optimization; Assisted also the marketing department, with corporate presentations, new social media strategies and approaches.
 
 
