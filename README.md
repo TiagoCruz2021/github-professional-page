@@ -101,7 +101,7 @@ Herculano-Ferpinta Group | Oliveira de Azeméis, Portugal
 ●	Design, implementation and monitoring of strategic business plans and performance assessment systems
 ●	Development of marketing, financial and innovation plans, ensuring and optimizing companies’ management
 
-**Coimbra Law School | Bachelor of Public and Private Administration	(_2012-2016_)**					       		
+**Coimbra Law School | Bachelor of Public and Private Administration(_2012-2016_)**					       		
 
 
 ## Licenses & Certificates
